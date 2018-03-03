@@ -1,0 +1,24 @@
+{
+  "name": "typescriptsample10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twoumblella/TypeScriptSample10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twoumblella/TypeScriptSample10/issues"
+  },
+  "homepage": "https://github.com/twoumblella/TypeScriptSample10#readme",
+  "dependencies": {
+    "@types/restify": "^5.0.7",
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
